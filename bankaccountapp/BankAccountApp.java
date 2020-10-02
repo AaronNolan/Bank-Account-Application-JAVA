@@ -10,7 +10,7 @@ public class BankAccountApp {
 		List<Account> accounts = new LinkedList<Account>();
 		
 		// File Name
-		String file = "C:\\Users\\I536933\\Downloads\\NewBankAccounts.csv";
+		String file = "C:\\Users\\Downloads\\NewBankAccounts.csv";
 		
 		
 		// Read CSV Data then create relevant accounts
